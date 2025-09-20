@@ -59,8 +59,6 @@ Support Vector Machine (SVM) is a supervised machine learning algorithm commonly
 - The model was trained using the dataset in `data/spam_ham_dataset.csv`.
 - Training and evaluation code is available in the Jupyter notebook under `notebook/`.
 
-## License
-This project is licensed under the MIT License.
 
 ## Acknowledgements
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection) for the dataset
